@@ -1,0 +1,3 @@
+Laptop | 85000
+Keyboard  | 1500
+Tv | 8620
